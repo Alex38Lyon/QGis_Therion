@@ -4,9 +4,7 @@ Collection QGis pour topographies Therion
 🇬🇧 [Read in English](./README.en.md)
 
 Ce dépôt contient les définitions de couche QGis et les symboles SVG pour visualiser les topographies Therion sur QGis.
-
 L'ensemble est basé sur les symboles standards de l'UIS
-
 Pour plus de détails, modèles et scripts sont disponibles sur https://github.com/robertxa/Topographies-Samoens_Folly
 
 
@@ -25,12 +23,9 @@ Usage
 
 Création des fichiers .shp avec Therion : 
 `export map -proj plan -fmt esri -o Outputs/SHP/ -layout my_layout -enc UTF-8`
-
-Conversion avec le script python CleanShp2d.py :
+Conversion avec le script python :
 [CleanShp2d.py](https://github.com/robertxa/Topographies-Samoens_Folly/blob/master/Samoens-GIS/Scripts/CleanShp2d.py)
-
 Import des fichiers  outline2d.gpkg, lines2dMasekd.gpkg, areas2dMasekd.gpkg, points2d.gpkg  dans QGis
-
 Application des styles de couche de la collection
 
 
@@ -39,7 +34,6 @@ Bonus : Insertion de vue décalé ou de vue en coupe
 
 Même methode que ci dessus, pour les coupes : 
 `export map -proj extended -fmt esri -o Outputs/SHP_Extended/ -layout layout-coupe -enc UTF-8`
-
 Création de 4 couches virtuelles dans QGis avec la requête (à adapter): 
 ```sql
 SELECT 
@@ -48,9 +42,7 @@ SELECT
 FROM 
     outline2d
 ```
-
 Application des styles de couche de la collection
-
 Filtrage des couches pour sélectionner les scraps à afficher décalé
 
 
