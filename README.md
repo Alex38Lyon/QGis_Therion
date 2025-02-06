@@ -1,5 +1,4 @@
 # Collection QGis pour topographies Therion
------------
 
 🇬🇧 [Read in English](./README.en.md)
 
@@ -11,7 +10,6 @@ Pour plus de détails, modèles et scripts sont disponibles sur https://github.c
 
 
 ## Description
------------
 
 Vu d'écran QGis, 
 
@@ -21,7 +19,6 @@ Vu d'écran QGis,
 
 
 ## Usage
------
 
 Création des fichiers .shp avec Therion : 
 `export map -proj plan -fmt esri -o Outputs/SHP/ -layout my_layout -enc UTF-8`
@@ -35,7 +32,6 @@ Application des styles de couche de la collection
 
 
 ## Bonus : Insertion de vue décalé ou de vue en coupe
------
 
 Même methode que ci dessus, pour les coupes : 
 `export map -proj extended -fmt esri -o Outputs/SHP_Extended/ -layout layout-coupe -enc UTF-8`
@@ -55,14 +51,12 @@ Filtrage des couches pour sélectionner les scraps à afficher décalé
 
 
 ## Licence
--------
 
 L'ensemble de ces données est publié sous la licence libre 
 [Creative Commons CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
 ## Auteur
-------
 
 Alexandre PONT (alexandre dot pont at yahoo dot fr )
 
