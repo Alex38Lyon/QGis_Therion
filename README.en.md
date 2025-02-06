@@ -1,4 +1,4 @@
-QGis Collection for Therion survey
+# QGis Collection for Therion survey
 ==================================
 
 🇫🇷 [Lire en Français](./README.md)
@@ -9,7 +9,7 @@ The set is based on the standard UIS symbols.
 
 For more details, models, and scripts are available at https://github.com/robertxa/Topographies-Samoens_Folly.
 
-Description
+## Description
 -----------
 
 QGis screenshot,
@@ -18,7 +18,7 @@ QGis screenshot,
   
 ![Screenshot 2](./screenshot/screenshot_02.jpg)
 
-Usage
+## Usage
 -----
 
 Creating .shp files with Therion:  
@@ -32,8 +32,8 @@ Import the files `outline2d.gpkg`, `lines2dMasked.gpkg`, `areas2dMasked.gpkg`, `
 Apply the layer styles from the collection.
 
 
-Bonus: Inserting Offset Views or Section Views
-==============================================
+### Bonus: Inserting Offset Views or Section Views
+
 
 Same method as above. For sections:  
 `export map -proj extended -fmt esri -o Outputs/SHP_Extended/ -layout layout-section -enc UTF-8`
@@ -52,14 +52,14 @@ Apply the layer styles from the collection
 Filter the layers to select the scraps to be displayed offset
 
 
-License
+## License
 -------
 
 All these data are published under the free license 
 [Creative Commons CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
-Author
+## Author
 ------
 
 Alexandre PONT (alexandre dot pont at yahoo dot fr)
