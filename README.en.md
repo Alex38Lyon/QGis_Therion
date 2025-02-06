@@ -1,5 +1,5 @@
 # QGis Collection for Therion survey
-==================================
+-----------
 
 🇫🇷 [Lire en Français](./README.md)
 
@@ -33,7 +33,7 @@ Apply the layer styles from the collection.
 
 
 ### Bonus: Inserting Offset Views or Section Views
-
+-----
 
 Same method as above. For sections:  
 `export map -proj extended -fmt esri -o Outputs/SHP_Extended/ -layout layout-section -enc UTF-8`
