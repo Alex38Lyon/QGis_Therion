@@ -35,7 +35,7 @@ Application des styles de couche de la collection
 
 
 Bonus : Insertion de vue décalé ou de vue en coupe
---------------------------------------------------
+==================================================
 
 Même methode que ci dessus, pour les coupes : 
 `export map -proj extended -fmt esri -o Outputs/SHP_Extended/ -layout layout-coupe -enc UTF-8`
