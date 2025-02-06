@@ -57,8 +57,7 @@ Filtrage des couches pour sélectionner les scraps à afficher décalé
 Licence
 -------
 
-L'ensemble de ces données est publié sous la licence libre Creative Commons CC BY-NC-SA 4.0 
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+L'ensemble de ces données est publié sous la licence libre [Creative Commons CC BY-NC-SA 4.0] (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
 Auteur

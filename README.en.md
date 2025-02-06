@@ -55,8 +55,7 @@ Filter the layers to select the scraps to be displayed offset
 License
 -------
 
-All these data are published under the Creative Commons CC BY-NC-SA 4.0 free license
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+All these data are published under the [Creative Commons CC BY-NC-SA 4.0] (https://creativecommons.org/licenses/by-nc-sa/4.0/) free license
 
 
 Author
