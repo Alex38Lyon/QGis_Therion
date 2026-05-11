@@ -3,11 +3,11 @@
 
 🇫🇷 [Lire en Français](./README.md)
 
-This repository contains QGis layer definitions and SVG symbols for visualizing Therion survey in QGis.
+This repository contains QGis layer definitions and SVG symbols for visualizing Therion surveys in QGis.
 
 The set is based on the standard UIS symbols.
 
-For more details, models, and scripts are available at https://github.com/robertxa/Topographies-Samoens_Folly.
+For more details, models, and scripts are available at https://github.com/robertxa/Topographies-Samoens_Folly and https://github.com/robertxa/pyThGIS.
 
 ## Description
 

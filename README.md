@@ -6,12 +6,12 @@ Ce dépôt contient les définitions de couche QGis et les symboles SVG pour vis
 
 L'ensemble est basé sur les symboles standards de l'UIS
 
-Pour plus de détails, modèles et scripts sont disponibles sur https://github.com/robertxa/Topographies-Samoens_Folly
+Pour plus de détails, modèles et scripts sont disponibles sur https://github.com/robertxa/Topographies-Samoens_Folly et https://github.com/robertxa/pyThGIS.
 
 
 ## Description
 
-Vu d'écran QGis, 
+Captures d'écran QGis, 
 
 ![Screenshot 1](./screenshot/screenshot_01.jpg)
   
